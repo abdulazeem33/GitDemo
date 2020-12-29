@@ -3,3 +3,6 @@ Welcome to git demo
 
 
 Git update on the file
+
+
+Updated to check pull option
